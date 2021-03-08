@@ -6,3 +6,5 @@ Figure 1a of "Exploiting self-organized criticality in strongly stratied
 turbulence", submitted to JFM.
 
 Authors: Guillaume, Rocha, Caulfield, Julien, and Chini.
+
+Spring, 2021.
