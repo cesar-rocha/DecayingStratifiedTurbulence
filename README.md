@@ -1,2 +1,3 @@
 # DecayingStratifiedTurbulence-
-Code for a decaying stratified turbulence simulation
+Scripts for running and plotting a simulation of decaying stratified turbulence simulation
+using [TwoDimBoussinesq](https://github.com/pyboussinesq/TwoDimBoussinesq).
