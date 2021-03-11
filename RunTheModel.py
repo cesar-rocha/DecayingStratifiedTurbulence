@@ -9,13 +9,13 @@ Reb = 20
 
 m = model.Boussinesq2d(
                 Lx=2.*np.pi,
-                nx=1024, 
+                nx=256, 
                 tmax = 30, 
                 dt = 0.001,
-                ntd=8,Fr=Fr,
+                ntd=4,Fr=Fr,
                 tsave=100,
                 twrite=200,
-                nu=(Fr**2)/Reb,
+                nu=0*(Fr**2)/Reb,
                 sig=1.e5,
                 kf=25,
                 ext_forc=True,
