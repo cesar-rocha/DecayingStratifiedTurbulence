@@ -15,7 +15,7 @@ m = model.Boussinesq2d(
                 ntd=4,Fr=Fr,
                 tsave=100,
                 twrite=200,
-                nu=0*(Fr**2)/Reb,
+                nu=(Fr**2)/Reb,
                 sig=1.e5,
                 kf=25,
                 ext_forc=True,
